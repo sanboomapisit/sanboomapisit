@@ -6,24 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://google.com)**
-
-- 📫 How to reach me **sanboomapisit@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
 ## 🚀 Languages and Tools:
-- [🙋‍♂️ About Me](#️-about-me)
-- [🚀 Languages and Tools:](#-languages-and-tools)
-- [📊 My Github Stats](#-my-github-stats)
-- [Connect with me:](#connect-with-me)
-- [❤ Views and Followers](#-views-and-followers)
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
